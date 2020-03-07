@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Company-Dash/static/css/main.58eab78e.chunk.css",
+    "main.js": "/Company-Dash/static/js/main.9da7fd0b.chunk.js",
+    "main.js.map": "/Company-Dash/static/js/main.9da7fd0b.chunk.js.map",
+    "runtime-main.js": "/Company-Dash/static/js/runtime-main.797c821c.js",
+    "runtime-main.js.map": "/Company-Dash/static/js/runtime-main.797c821c.js.map",
+    "static/js/2.2a435c57.chunk.js": "/Company-Dash/static/js/2.2a435c57.chunk.js",
+    "static/js/2.2a435c57.chunk.js.map": "/Company-Dash/static/js/2.2a435c57.chunk.js.map",
+    "index.html": "/Company-Dash/index.html",
+    "precache-manifest.90a54f7c8fbc8f84dff8adb304542fee.js": "/Company-Dash/precache-manifest.90a54f7c8fbc8f84dff8adb304542fee.js",
+    "service-worker.js": "/Company-Dash/service-worker.js",
+    "static/css/main.58eab78e.chunk.css.map": "/Company-Dash/static/css/main.58eab78e.chunk.css.map",
+    "static/js/2.2a435c57.chunk.js.LICENSE.txt": "/Company-Dash/static/js/2.2a435c57.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Company-Dash/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.797c821c.js",
+    "static/js/2.2a435c57.chunk.js",
+    "static/css/main.58eab78e.chunk.css",
+    "static/js/main.9da7fd0b.chunk.js"
+  ]
+}
