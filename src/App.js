@@ -8,6 +8,7 @@ function App() {
     <div>
       <div className="App">
         <h1>Emerging Markets BigCommerce Dash</h1>
+        <h2>Goal: 2245</h2>
       </div>
       <div className="Therm">
         <Thermometor
